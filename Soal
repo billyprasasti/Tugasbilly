@@ -1,0 +1,14 @@
+Homework
+1. Tim data scientist diminta pertolongan oleh CEO ingin meminta beberapa data terkait user.
+Sehingga tim data scientist diminta membuat data frame dari profil user tersebut. Silahkan buat
+data frame yang terdiri dari kolom berikut:
+1. Nama
+2. Tempat lahir
+3. Tanggal lahir
+4. Tanggal terakhir berbelanja
+5. Rata-rata amount belanja per bulan (Rp)
+6. Total transaksi per bulan
+Buatlah data minimal 5 users.
+2. Dari data frame tersebut pilihlah user yang paling loyal berbelanja. Dimana user loyal adalah
+user yang memiliki rata-rata amount belanja per bulan di atas 100 ribu rupiah dan total transaksi
+per bulan di atas 5
